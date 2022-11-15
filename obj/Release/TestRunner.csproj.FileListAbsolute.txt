@@ -1,0 +1,10 @@
+C:\Users\anatolii.butko\source\repos\TestRunner\bin\Release\TestRunner.exe.config
+C:\Users\anatolii.butko\source\repos\TestRunner\bin\Release\TestRunner.exe
+C:\Users\anatolii.butko\source\repos\TestRunner\bin\Release\TestRunner.pdb
+C:\Users\anatolii.butko\source\repos\TestRunner\obj\Release\TestRunner.FormMain.resources
+C:\Users\anatolii.butko\source\repos\TestRunner\obj\Release\TestRunner.FormSettings.resources
+C:\Users\anatolii.butko\source\repos\TestRunner\obj\Release\TestRunner.Properties.Resources.resources
+C:\Users\anatolii.butko\source\repos\TestRunner\obj\Release\TestRunner.csproj.GenerateResource.cache
+C:\Users\anatolii.butko\source\repos\TestRunner\obj\Release\TestRunner.csproj.CoreCompileInputs.cache
+C:\Users\anatolii.butko\source\repos\TestRunner\obj\Release\TestRunner.exe
+C:\Users\anatolii.butko\source\repos\TestRunner\obj\Release\TestRunner.pdb
